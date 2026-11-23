@@ -1,5 +1,11 @@
+
+ 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:eab308&height=195&section=header&text=Argha%20Ghosh&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Mathematics%20%7C%20Software%20Engineering&descSize=15&descColor=fde047&descAlignY=60" width="100%" />
+  <h1>Argha Ghosh</h1>
+  <h3>Data Science & Mathematics | Software Engineering</h3>
+
+  <img src="https://github.com/user-attachments/assets/39ed2465-baaf-4900-825a-d759a210673a" width="85%" alt="Samurai Sword Sekiro GIF" />
 </div>
 
 <p align="center">
