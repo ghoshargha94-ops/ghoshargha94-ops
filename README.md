@@ -1,14 +1,19 @@
 
  
 <div align="center">
-  <h1>Argha Ghosh</h1>
-  <h3>Data Science & Mathematics | Software Engineering</h3>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=FACC15&background=090D16&center=true&vCenter=true&width=700&height=70&lines=Data+Science+%26+Mathematics+Builder;Shipping+Projects+%26+Open+Contributions;Fashion%2C+Rapping+%26+Clean+Code" alt="Animated Typing Tagline" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:140f0a,50:78350f,100:d97706&height=145&section=header&text=Argha%20Ghosh&fontSize=42&fontColor=fef3c7&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Mathematics%20%7C%20Software%20Engineering&descSize=15&descColor=fde68a&descAlignY=62" width="100%" />
 
   <br/>
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=FBBF24&background=1C140D&center=true&vCenter=true&width=700&height=70&lines=Data+Science+%26+Mathematics+Builder;Shipping+Projects+%26+Open+Contributions;Fashion%2C+Rapping+%26+Clean+Code" alt="Animated Typing Tagline" />
+
+  <br/><br/>
+
   <img src="https://github.com/user-attachments/assets/39ed2465-baaf-4900-825a-d759a210673a" width="85%" alt="Samurai Sword Sekiro GIF" />
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97706,50:78350f,100:140f0a&height=95&section=footer" width="100%" />
 </div>
 
 <p align="center">
