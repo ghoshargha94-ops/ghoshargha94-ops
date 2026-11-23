@@ -89,7 +89,9 @@
 ### ✍️ Dev Quote & Contributions
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <a href="https://github.com/OWNER-USERNAME/REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWNER-USERNAME&repo=REPO-NAME&theme=dark" alt="Featured Repo" />
+  </a>
 </p>
 
 <p align="center">
