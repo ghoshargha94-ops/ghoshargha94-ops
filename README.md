@@ -1,14 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=210&section=header&text=Argha%20Ghosh&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20%7C%20Backend%2C%20Systems%20%26%20AI&descSize=16&descColor=cbd5e1&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:eab308&height=195&section=header&text=Argha%20Ghosh&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%7C%20Mathematics%20%7C%20Software%20Engineering&descSize=15&descColor=fde047&descAlignY=60" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Undergrad+%7C+Software+Developer;Building+Full-Stack+%26+AI-Powered+Systems;DSA+in+Java+%26+C%2B%2B+%7C+Python+Backends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=FACC15&center=true&vCenter=true&width=680&lines=Coding+%26+Mathematics+%7C+Data+Science+Builder;Shipping+Projects+%26+Open+Contributions;Fashion%2C+Rapping+%26+Relentless+Execution" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/argha-ghosh-2496b1238?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/its_tyler.fr?gwpx=MXh1cHJ4OG10cGFhcw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ghoshargha94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🕹️ Contribution Activity
+### ⚡ About & Focus
+
+* 🧮 **Core Drive:** Obsessed with **coding, mathematics, and data science**—turning quantitative ideas and real-world data into working software.
+* 🛠️ **Build & Contribute:** Actively building projects and contributing code across backend, web, and data workflows.
+* 🎧 **Off the Clock:** Into **fashion and rapping**—same rhythm, cadence, and attention to detail outside the terminal.
+* 📫 **Connect:** Reach out anytime at **ghoshargha94@gmail.com** for projects, collaborations, or data/engineering work.
+
+---
+
+### 🕹️ Contribution Activity (Pac-Man)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghoshArgha94-ops/ghoshArgha94-ops/output/pacman-contribution-graph-dark.svg">
@@ -19,19 +41,61 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,ts,js,react,nextjs,html,fastapi,postgres,supabase,docker,arduino,git,github,vscode,vercel" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghoshArgha94-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 💻 Tech Stack
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ghoshArgha94-ops&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ghoshArgha94-ops&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+### 📊 Stats, Streak & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghoshArgha94-ops&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshArgha94-ops&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoshArgha94-ops&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshArgha94-ops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### ✍️ Dev Quote & Contributions
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ghoshArgha94-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghoshArgha94-ops&label=Profile%20views&color=eab308&style=flat" alt="Profile Views" />
 </p>
