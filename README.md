@@ -86,16 +86,19 @@
 
 ---
 
-### ✍️ Dev Quote & Contributions
+### ✍️ Dev Quote & Featured Repos
 
 <p align="center">
-  <a href="https://github.com/OWNER-USERNAME/REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWNER-USERNAME&repo=REPO-NAME&theme=dark" alt="Featured Repo" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ghoshArgha94-ops&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <a href="https://github.com/ghoshArgha94-ops/project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshArgha94-ops&repo=project&theme=dark" alt="project" />
+  </a>
+  <a href="https://github.com/ghoshArgha94-ops/TRATA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghoshArgha94-ops&repo=TRATA&theme=dark" alt="TRATA" />
+  </a>
 </p>
 
 <p align="center">
