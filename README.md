@@ -1,9 +1,12 @@
 
  
-
 <div align="center">
   <h1>Argha Ghosh</h1>
   <h3>Data Science & Mathematics | Software Engineering</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=FACC15&background=090D16&center=true&vCenter=true&width=700&height=70&lines=Data+Science+%26+Mathematics+Builder;Shipping+Projects+%26+Open+Contributions;Fashion%2C+Rapping+%26+Clean+Code" alt="Animated Typing Tagline" />
+
+  <br/>
 
   <img src="https://github.com/user-attachments/assets/39ed2465-baaf-4900-825a-d759a210673a" width="85%" alt="Samurai Sword Sekiro GIF" />
 </div>
